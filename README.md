@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -22,6 +22,6 @@
 
 ## 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurpcidrao&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpcidrao&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurpcidrao&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpcidrao&layout=compact&theme=tokyonight" height="200"/>
 </p>
