@@ -3,17 +3,23 @@
 ## 👨‍💻 Sobre mim
 - 💻 Backend Developer
 - 📊 Data Analytics
-- ⚙️ Data engineering
-- 📈 Data science
+- ⚙️ Data Engineering
+- 📈 Data Science
 
 ## 🛠️ Tecnologias
-- Python
-- SQL
-- Pandas
-- FastAPI
-- Streamlit
-- React
-- Scikit-learn
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+</p>
 
 ## 📈 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=arthurpcidrao)
+![stats](https://github-readme-stats.vercel.app/api?username=arthurpcidrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpcidrao&layout=compact&theme=tokyonight)
