@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🚀 Arthur Paraiba Cidrão
 
-<!--
-**arthurpcidrao/arthurpcidrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/seu-banner.gif" width="100%" />
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
+- 💻 Backend Developer
+- 📊 Data Analytics
+- ⚙️ Data engineering
+- 📈 Data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python
+- SQL
+- Pandas
+- FastAPI
+- Streamlit
+- React
+- Scikit-learn
+
+## 📈 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=arthurcidrao)
