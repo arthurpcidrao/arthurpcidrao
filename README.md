@@ -22,6 +22,6 @@
 
 ## 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurpcidrao&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpcidrao&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurpcidrao&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpcidrao&layout=compact&theme=tokyonight" height="150"/>
 </p>
