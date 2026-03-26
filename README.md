@@ -1,7 +1,5 @@
 # 🚀 Arthur Paraiba Cidrão
 
-<img src="https://i.imgur.com/seu-banner.gif" width="100%" />
-
 ## 👨‍💻 Sobre mim
 - 💻 Backend Developer
 - 📊 Data Analytics
@@ -18,4 +16,4 @@
 - Scikit-learn
 
 ## 📈 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=arthurcidrao)
+![stats](https://github-readme-stats.vercel.app/api?username=arthurpcidrao)
