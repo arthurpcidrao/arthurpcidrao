@@ -23,3 +23,4 @@
 ## 📈 Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=arthurpcidrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpcidrao&layout=compact&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=arthurpcidrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
